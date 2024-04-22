@@ -1,0 +1,11 @@
+{
+    "name": "Ezeokoli Chukwuemerie",
+    "age": 30,
+    "Email": "ezeokolichukwuemerie@yahoo.com",
+    "isSubscribed": true,
+    "hobbies": ["Reading", "listening to music", "Playing table-tennis"],
+    "Address": {
+        "city": "New york",
+        "idk": true
+    }
+}
